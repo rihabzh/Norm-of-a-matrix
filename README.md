@@ -63,14 +63,14 @@ print(f"{r:.2f}")
 ## Output:
 ### 1-Norm of a Matrix
 
-<img width="887" height="721" alt="Screenshot 2026-08-08 143608" src="https://github.com/user-attachments/assets/40853298-7898-4bbf-8597-70d02b230b1e" />
+<img width="746" height="697" alt="Screenshot 2026-08-08 150654" src="https://github.com/user-attachments/assets/df60afab-2d43-4db6-ae7a-d547c505fe1f" />
 
 ### 2-Norm of a Matrix
-<img width="673" height="541" alt="Screenshot 2026-08-08 143615" src="https://github.com/user-attachments/assets/c3003645-17a5-447b-9404-437db3689174" />
+<img width="968" height="757" alt="Screenshot 2026-08-08 150704" src="https://github.com/user-attachments/assets/e6210288-4ee7-4fd9-b2c3-8c92e9f209a9" />
 
 
 ### Infinity Norm of a Matrix
-<img width="652" height="722" alt="Screenshot 2026-08-08 150210" src="https://github.com/user-attachments/assets/c0c96900-2c18-457b-8379-fee8e04dbdfe" />
+<img width="726" height="686" alt="Screenshot 2026-08-08 150712" src="https://github.com/user-attachments/assets/7e0c030f-d4a1-416e-a2e3-f3b1ba063272" />
 
 
 ## Result
