@@ -42,7 +42,7 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 '''
 developed by : RIHAB ZAKKAIR HUSSAIN
 REGISTRATION NO: 212225230226
-'''
+'''python
 
 import os
 os.environ["OPENBLAS_NUM_THREADS"]="1"
